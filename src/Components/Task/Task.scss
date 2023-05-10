@@ -1,0 +1,26 @@
+.task{
+    &-menu{
+        height: 50px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        &--link{
+            color: #666666;
+            text-decoration: none;
+            &:hover{
+                color: #666666;
+            }
+            &:active{
+                font-weight: bold;
+            }
+        }
+        &--item{
+            &:active{
+                border-bottom: 3px solid green;
+            }
+        }
+    }
+}

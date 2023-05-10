@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Travelling Salesman Problem",
+        "description": "A salesman has a number of cities to visit. They want to calculate the total number of possible paths they could take, visiting each city once before returning home. Return the total number of possible paths a salesman can travel, given n cities. If we have cities A, B and C, possible paths would be:",
+        "level": "medium"
+    },
+    {
+        "id": 2,
+        "name": "The Collats conjucture",
+        "description": "Consider the following operation on an arbitrary positive integer: If n is even - n / 2 If n is odd - n * 3 + 1 Create a function to repeatedly evaluate these operations, until reaching 1. Return the number of steps it took. See the following example, using 10 as the input, with 6 steps: 10 is even - 10 / 2 = 5 5 is odd",
+        "level": "medium"
+    },
+    {
+        "id": 3,
+        "name": "Sum of Digits of a Positive Integer",
+        "description": "Given a positive integer n, return the sum of all digits of n. Ex: n = 12345, return 6.",
+        "level": "medium"
+    },
+    {
+        "id": 4,
+        "name": "The Greatest Common Divisor",
+        "description": "Given two integers x and y, return the greatest common divisor of x and y. If x and y are the same, return x.",
+        "level": "medium"
+    }
+]
